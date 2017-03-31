@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BlueHow</string>
+    <string name="title_activity_main2">Inicio</string>
+    <string name="title_home">Navegacion</string>
+    <string name="title_dashboard">Historial</string>
+    <string name="title_notifications">Mi cuenta</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
